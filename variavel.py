@@ -1,0 +1,1 @@
+variavel_nome = input ("escreva o nome ")
