@@ -1,3 +1,3 @@
 A=(int(input("digite um numero")))
-B=(int(input("sigite um numero")))
+B=(int(input("digite um numero")))
 print(A+B)
